@@ -1,0 +1,19 @@
+{
+  "feature_names": [
+    "Attendance",
+    "Projects_Score",
+    "notecc",
+    "SN",
+    "Sleep_hour",
+    "Stress_Level (1-10)"
+  ],
+  "importance": [
+    0.10031502913362833,
+    0.11522932970582545,
+    0.22437291223801942,
+    0.5084728990978199,
+    0.05026061828846866,
+    0.0013492115348154314
+  ],
+  "description": "Importance des features pour LightGBM"
+}

@@ -1,0 +1,13 @@
+{
+  "confusion_matrix": [
+    [
+      111,
+      289
+    ],
+    [
+      67,
+      533
+    ]
+  ],
+  "description": "Matrice de confusion du mod\u00e8le"
+}

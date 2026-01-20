@@ -1,0 +1,19 @@
+{
+  "feature_names": [
+    "Attendance",
+    "Projects_Score",
+    "notecc",
+    "SN",
+    "Sleep_hour",
+    "Stress_Level (1-10)"
+  ],
+  "importance": [
+    0.0,
+    0.05,
+    0.21666666666666667,
+    0.7166666666666667,
+    0.016666666666666666,
+    0.0
+  ],
+  "description": "Importance de chaque feature pour le Random Forest"
+}

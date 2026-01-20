@@ -1,0 +1,26 @@
+{
+  "train_accuracy": 0.6805,
+  "test_accuracy": 0.628,
+  "precision": 0.6307339449541277,
+  "recall": 0.9166666666666651,
+  "f1_score": 0.7472826086951682,
+  "auc_roc": 0.5509374999999976,
+  "train_log_likelihood": -10941.884361907703,
+  "test_log_likelihood": -2652.5780271291405,
+  "train_cost": 8.828117744867013,
+  "test_cost": 10.278746978398715,
+  "cv_mean": 0.65775,
+  "cv_std": 0.005667892024377333,
+  "tree_depth": 5,
+  "n_leaves": 28,
+  "confusion_matrix": [
+    [
+      78,
+      322
+    ],
+    [
+      50,
+      550
+    ]
+  ]
+}

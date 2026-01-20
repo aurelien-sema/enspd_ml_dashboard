@@ -1,0 +1,20 @@
+{
+  "feature_names": [
+    "Attendance",
+    "Projects_Score",
+    "notecc",
+    "SN",
+    "Sleep_hour",
+    "Stress_Level (1-10)"
+  ],
+  "importance": [
+    0.01876625308356412,
+    0.02173822691885338,
+    0.04231655035731467,
+    0.09565610973352319,
+    0.009624156662076746,
+    0.0011726226864827048
+  ],
+  "intercept": 0.5865492930064552,
+  "description": "Coefficients (poids) de la r\u00e9gression lin\u00e9aire et intercept (biais)"
+}

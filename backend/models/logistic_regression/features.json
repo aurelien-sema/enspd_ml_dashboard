@@ -1,0 +1,20 @@
+{
+  "feature_names": [
+    "Attendance",
+    "Projects_Score",
+    "notecc",
+    "SN",
+    "Sleep_hour",
+    "Stress_Level (1-10)"
+  ],
+  "importance": [
+    0.07184418162941142,
+    0.08253136309836133,
+    0.16075997906283626,
+    0.36434578335467227,
+    0.03612818203614175,
+    0.0009903435426980658
+  ],
+  "bias": 0.38015062145865824,
+  "description": "Coefficients (poids) de la r\u00e9gression logistique et biais"
+}

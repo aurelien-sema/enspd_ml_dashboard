@@ -1,0 +1,20 @@
+{
+  "feature_names": [
+    "Attendance",
+    "Projects_Score",
+    "notecc",
+    "SN",
+    "Sleep_hour",
+    "Stress_Level (1-10)"
+  ],
+  "importance": [
+    0.0009070560307773368,
+    0.0009085375975538728,
+    0.001967874755651189,
+    0.0038568881008660726,
+    0.00035288281293160306,
+    0.00012466583452117966
+  ],
+  "bias": 0.9976031250000008,
+  "description": "Poids lin\u00e9aires du SVM et biais"
+}

@@ -1,0 +1,13 @@
+{
+  "confusion_matrix": [
+    [
+      78,
+      322
+    ],
+    [
+      50,
+      550
+    ]
+  ],
+  "description": "True Negatives | False Positives | False Negatives | True Positives"
+}
